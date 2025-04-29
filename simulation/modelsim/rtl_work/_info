@@ -1,0 +1,118 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/test/Test/Quartus_projects/single_port_ram/simulation/modelsim
+vmain
+Z1 !s110 1745486574
+!i10b 1
+!s100 1KB?1fkol9naFfGSY^^Og3
+I=QVNnJaW4BM]DSz4?ERDz3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1745486335
+8D:/test/Test/Quartus_projects/single_port_ram/main.v
+FD:/test/Test/Quartus_projects/single_port_ram/main.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1745486573.000000
+!s107 D:/test/Test/Quartus_projects/single_port_ram/main.v|
+!s90 -reportprogress|300|-work|work|D:/test/Test/Quartus_projects/single_port_ram/main.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vmain_tb
+R1
+!i10b 1
+!s100 jYRa3YN[F=6i;>9EdHfmR3
+I<55H`D95l;9E^Eo5H^_>]0
+R2
+R0
+w1745486364
+8D:/test/Test/Quartus_projects/single_port_ram/main_tb.v
+FD:/test/Test/Quartus_projects/single_port_ram/main_tb.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1745486574.000000
+!s107 D:/test/Test/Quartus_projects/single_port_ram/main_tb.v|
+!s90 -reportprogress|300|-work|work|D:/test/Test/Quartus_projects/single_port_ram/main_tb.v|
+!i113 1
+R4
+R5
+vsingle_port_ram_no_change_mode
+!s110 1745486559
+!i10b 1
+!s100 ;0dD4bhX[@X>EiY@?lieP2
+IKFDJREo2RBaIlOANXXHgS1
+R2
+R0
+w1745486428
+8D:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_no_change_mode.v
+FD:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_no_change_mode.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z6 !s108 1745486559.000000
+!s107 D:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_no_change_mode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/test/Test/Quartus_projects/single_port_ram/src|D:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_no_change_mode.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+D:/test/Test/Quartus_projects/single_port_ram/src
+R5
+vsingle_port_ram_read_first_mode
+Z9 !s110 1745486560
+!i10b 1
+!s100 c?5E2?M[AZ7DkCPB=DS<B2
+ISBhTl=CQbROcTl2RblDSz2
+R2
+R0
+w1745486446
+8D:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_read_first_mode.v
+FD:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_read_first_mode.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_read_first_mode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/test/Test/Quartus_projects/single_port_ram/src|D:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_read_first_mode.v|
+!i113 1
+R7
+R8
+R5
+vsingle_port_ram_write_first_mode
+R9
+!i10b 1
+!s100 F[WNaS<bnYz<E9YJ9:9Q02
+IRI9WOVKg8JFjjLQiZ8B0k3
+R2
+R0
+w1745486462
+8D:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_write_first_mode.v
+FD:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_write_first_mode.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1745486560.000000
+!s107 D:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_write_first_mode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/test/Test/Quartus_projects/single_port_ram/src|D:/test/Test/Quartus_projects/single_port_ram/src/single_port_ram_write_first_mode.v|
+!i113 1
+R7
+R8
+R5
